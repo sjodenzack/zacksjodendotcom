@@ -1,11 +1,11 @@
-html { height: 100%; width: 100%; margin: 0; padding: 0; }
-
-#everything {
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
     background-color: #333333;
     color: #ffffff;
     font-family: Lucida Console, Courier New, monospace;
-    height: 100%;
-    width: 100%;
 }
 
 a:link {
@@ -28,8 +28,8 @@ ul {
     list-style-type: square;
 }
 
-.h2-indent {
-    padding: 4em;
+.2em-indent {
+    padding-left: 2em;
 }
 
 .blue {
