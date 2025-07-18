@@ -6,6 +6,15 @@ html {
     background-color: #333333;
     color: #ffffff;
     font-family: Lucida Console, Courier New, monospace;
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+h2 {
+    font-size: 1em;
 }
 
 a:link {
