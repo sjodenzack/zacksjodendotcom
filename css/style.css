@@ -96,5 +96,7 @@ ul {
 
 .nostyle {
     text-decoration: none;
+    link-style: none;
+    link-style-type: none;
     color: inherit;
 }
