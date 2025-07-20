@@ -22,11 +22,43 @@ a:visited {
     color: #ffffff;
 }
 
-a:hover {
+a.blue-socialmedia:hover {
     color: #6c9eab;
 }
 
-a:active {
+a.blue-socialmedia:active {
+    color: #6c9eab;
+}
+
+a.purple-projects:hover {
+    color: #6c9eab;
+}
+
+a.purple-projects:active {
+    color: #6c9eab;
+}
+
+a.green-goals:hover {
+    color: #6c9eab;
+}
+
+a.green-goals:active {
+    color: #6c9eab;
+}
+
+a.red-gallaries:hover {
+    color: #6c9eab;
+}
+
+a.red-gallaries:active {
+    color: #6c9eab;
+}
+
+a.pink-posts:hover {
+    color: #6c9eab;
+}
+
+a.pink-posts:active {
     color: #6c9eab;
 }
 
