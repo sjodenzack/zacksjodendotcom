@@ -31,35 +31,35 @@ a.blue-socialmedia:active {
 }
 
 a.purple-projects:hover {
-    color: #6c9eab;
+    color: #a172ab;
 }
 
 a.purple-projects:active {
-    color: #6c9eab;
+    color: #a172ab;
 }
 
 a.green-goals:hover {
-    color: #6c9eab;
+    color: #78b089;
 }
 
 a.green-goals:active {
-    color: #6c9eab;
+    color: #78b089;
 }
 
 a.red-gallaries:hover {
-    color: #6c9eab;
+    color: #c75a66;
 }
 
 a.red-gallaries:active {
-    color: #6c9eab;
+    color: #c75a66;
 }
 
 a.pink-posts:hover {
-    color: #6c9eab;
+    color: #c2699b;
 }
 
 a.pink-posts:active {
-    color: #6c9eab;
+    color: #c2699b;
 }
 
 ul {
@@ -79,7 +79,7 @@ ul {
 }
 
 .pink {
-    color: #c2699b
+    color: #c2699b;
 }
 
 .green {
